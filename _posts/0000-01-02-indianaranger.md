@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“I came, I saw, I conquered.” – Julius Caesar.
 Use the left arrow to go back!
